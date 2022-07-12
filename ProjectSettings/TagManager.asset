@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Door
+  - Destructible
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - No Collisions
+  - Water
+  - UI
+  - Ground
+  - Shot
+  - Player
+  - Destructible
+  - Pickups
+  - Check Point
+  - Enemy
+  - Door
+  - TrigerZone
+  - Boss
+  - BossShot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1963346837
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1402816283
+    locked: 0
+  - name: Destructible
+    uniqueID: 2933111355
+    locked: 0
+  - name: Enemy
+    uniqueID: 2416627129
+    locked: 0
+  - name: Player
+    uniqueID: 969647135
+    locked: 0
+  - name: Ability
+    uniqueID: 1583879515
+    locked: 0
+  - name: Health
+    uniqueID: 2796466261
+    locked: 0
+  - name: Bullets and Bombs
+    uniqueID: 1773590375
+    locked: 0
+  - name: Door
+    uniqueID: 3496716713
+    locked: 0
+  - name: Effects
+    uniqueID: 3220517731
+    locked: 0
+  - name: FG
+    uniqueID: 3456494081
+    locked: 0
