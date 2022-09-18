@@ -50,7 +50,6 @@ public class DoorController : MonoBehaviour
                 thePlayer.canMove = false;  
                 StartCoroutine(UseDoorCo());
             }
-
         }
     }
 
@@ -70,7 +69,11 @@ public class DoorController : MonoBehaviour
 
         UIController.instance.StartFadeFromBlack();
 
+        PlayerPrefs.SetString("ContinueLevel", LevelToLoad);
+        PlayerPrefs.SetFloat("PosX", exitPoint.position.x);
+        PlayerPrefs.SetFloat("PosY", exitPoint.position.y);
+        PlayerPrefs.SetFloat("PosZ", exitPoint.position.z);
+
         SceneManager.LoadScene(LevelToLoad);
     }
-
 } 

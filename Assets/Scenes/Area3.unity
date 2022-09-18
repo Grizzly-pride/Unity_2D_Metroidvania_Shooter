@@ -231,6 +231,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
+      propertyPath: canDash
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
+      propertyPath: canDropBomb
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
+      propertyPath: canBecomeBall
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
+      propertyPath: canDoubleJump
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6635981165720488619, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
       propertyPath: m_Name
       value: Player

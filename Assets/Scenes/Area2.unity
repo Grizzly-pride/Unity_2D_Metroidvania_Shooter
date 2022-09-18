@@ -233,7 +233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
       propertyPath: canDash
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
       propertyPath: canDropBomb
@@ -245,7 +245,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6635981165720488615, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
       propertyPath: canDoubleJump
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6635981165720488619, guid: f9e175e824f31c84883bd7e217a5feba, type: 3}
       propertyPath: m_Name
@@ -812,7 +812,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8971613179276398501, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
       propertyPath: m_Name
-      value: Health Pickup
+      value: Health Pickup 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
@@ -53670,7 +53670,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8971613179276398501, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
       propertyPath: m_Name
-      value: Health Pickup (4)
+      value: Health Pickup 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
@@ -53789,7 +53789,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8971613179276398501, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
       propertyPath: m_Name
-      value: Health Pickup (1)
+      value: Health Pickup 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
@@ -53954,7 +53954,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2726150777888694476, guid: fc1b8edf0edc293479eafedf81ec3c3c, type: 3}
       propertyPath: m_Name
-      value: Ability Picup (1)
+      value: Ability Picup Become Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc1b8edf0edc293479eafedf81ec3c3c, type: 3}
@@ -55632,7 +55632,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2726150777888694476, guid: fc1b8edf0edc293479eafedf81ec3c3c, type: 3}
       propertyPath: m_Name
-      value: Ability Picup
+      value: Ability Picup Drop Bomb
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fc1b8edf0edc293479eafedf81ec3c3c, type: 3}
@@ -77737,7 +77737,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8971613179276398501, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
       propertyPath: m_Name
-      value: Health Pickup (3)
+      value: Health Pickup 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: beae4cc0fafa1cd4e983df23d6b2ec35, type: 3}
